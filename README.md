@@ -36,5 +36,5 @@
 
 ## APK para Teste
 
-Você pode baixar o APK do aplicativo [aqui]([https://expo.dev/accounts/guilhermelima1993/projects/app/builds/7b80bc3c-a9fe-46ca-8131-26e2ae0cead7](https://expo.dev/artifacts/eas/gfxe1kEKZepPTJtKnggUFa.aab).
+Você pode baixar o APK do aplicativo [aqui](https://expo.dev/artifacts/eas/gfxe1kEKZepPTJtKnggUFa.aab).
 
